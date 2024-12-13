@@ -15,14 +15,30 @@
   ✨ <strong>Sempre criando algo incrível e me divertindo no processo!</strong>  
 </p>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/murilo-gonzalez-bez-chleba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+         width="52" 
+         height="40" 
+         alt="LinkedIn logo" />
   </a>
   <a href="https://tryhackme.com/r/p/MuriloBezChleba" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+    <img src="https://assets.tryhackme.com/img/logo/thm_christmas_logo.svg" 
+         width="52" 
+         height="40" 
+         alt="TryHackMe logo" 
+         style="filter: invert(100%);" />
+  </a>
+  <a href="https://judge.beecrowd.com/pt/profile/715751" target="_blank">
+    <img src="https://judge.beecrowd.com/img/5.0/logo-beecrowd.png?1700546944" 
+         width="65" 
+         height="40" 
+         alt="Beecrowd logo" 
+         style="filter: invert(100%);" />
   </a>
 </div>
+
+
 
 ###
 
