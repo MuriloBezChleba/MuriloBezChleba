@@ -24,8 +24,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuriloBezChleba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuriloBezChleba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloBezChleba&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/MuriloBezChleba/MuriloBezChleba/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloBezChleba&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="230" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -63,7 +62,7 @@
     <img 
       src="https://spotify-recently-played-readme.vercel.app/api?user=futag8s06ltl2v095t0le6ix5&count=5&unique=false" 
       alt="Spotify recently played" 
-      width="400"
+      width="300"
     />
   </a>
 </div>
