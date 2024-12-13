@@ -15,6 +15,15 @@
   ✨ <strong>Sempre criando algo incrível e me divertindo no processo!</strong>  
 </p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/murilo-gonzalez-bez-chleba/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://tryhackme.com/r/p/MuriloBezChleba" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  </a>
+</div>
+
 ###
 
 <h2 align="left">Stats</h2>
