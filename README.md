@@ -9,7 +9,7 @@
   🚀 <strong>Minhas ferramentas mágicas:</strong>  
   &nbsp;&nbsp;&nbsp;&nbsp;🖌️ Frontend: <strong>React</strong>, <strong>JavaScript</strong>   
   &nbsp;&nbsp;&nbsp;&nbsp;🔧 Backend: <strong>Node.js</strong>, <strong>MySQL</strong>, <strong>Python</strong>   
-  &nbsp;&nbsp;&nbsp;&nbsp;🎨 Design e edição: <strong>Figma</strong>, <strong>Adobe Premiere</strong>   
+  &nbsp;&nbsp;&nbsp;&nbsp;🎨 Design e edição: <strong>Figma</strong>, <strong>Adobe Premiere e Lightroom</strong>   
   &nbsp;&nbsp;&nbsp;&nbsp;🎮 Desenvolvimento de jogos: <strong>GameMaker</strong> <br> 
 
   ✨ <strong>Sempre criando algo incrível e me divertindo no processo!</strong>  
@@ -49,7 +49,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuriloBezChleba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuriloBezChleba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloBezChleba&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="230" alt="activity-graph graph"  />
 </div>
 
 ###
