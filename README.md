@@ -2,17 +2,18 @@
 
 ###
 
-<p align="left">  
-   <strong>OBA! Eu sou o Murilo Bez Chleba!</strong> <br>  
-   <strong>18 anos</strong>, direto do Brasil, apaixonado por tecnologia, programação e criatividade. <br>  
+<p align="left">
+   <strong>Oi! Eu sou o Murilo Bez Chleba 👋</strong> <br>
 
-  🚀 <strong>Minhas ferramentas mágicas:</strong>  
-  &nbsp;&nbsp;&nbsp;&nbsp;🖌️ Frontend: <strong>React</strong>, <strong>JavaScript</strong>   
-  &nbsp;&nbsp;&nbsp;&nbsp;🔧 Backend: <strong>Node.js</strong>, <strong>MySQL</strong>, <strong>Python</strong>   
-  &nbsp;&nbsp;&nbsp;&nbsp;🎨 Design e edição: <strong>Figma</strong>, <strong>Adobe Premiere e Lightroom</strong>   
-  &nbsp;&nbsp;&nbsp;&nbsp;🎮 Desenvolvimento de jogos: <strong>GameMaker</strong> <br> 
+   🚀 <strong>Minhas ferramentas mágicas:</strong>  
+   &nbsp;&nbsp;&nbsp;&nbsp;🖌️ Frontend: <strong>React</strong>, <strong>TypeScript</strong>, <strong>JavaScript</strong>, <strong>HTML/CSS</strong>  
+   &nbsp;&nbsp;&nbsp;&nbsp;🔧 Backend: <strong>Python</strong>, <strong>Node.js</strong>, <strong>C++</strong>, <strong>MySQL</strong>  
+   &nbsp;&nbsp;&nbsp;&nbsp;🤖 IA: <strong>OpenAI</strong>, <strong>Gemini</strong>, <strong>LangChain</strong>, <strong>RAG</strong>  
+   &nbsp;&nbsp;&nbsp;&nbsp;☁️ Cloud & DevOps: <strong>AWS</strong>, <strong>Docker</strong>, <strong>Nginx</strong>, <strong>Linux</strong>  
+   &nbsp;&nbsp;&nbsp;&nbsp;🎨 Design & edição: <strong>Figma</strong>, <strong>Adobe Premiere</strong>, <strong>Lightroom</strong>  
+   &nbsp;&nbsp;&nbsp;&nbsp;🎮 Game dev: <strong>GameMaker</strong>  
 
-  ✨ <strong>Sempre criando algo incrível e me divertindo no processo!</strong>  
+   ✨ <strong>Sempre criando algo incrível e me divertindo no processo!</strong>
 </p>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
